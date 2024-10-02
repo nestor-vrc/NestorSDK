@@ -23,9 +23,10 @@ To get started with NestorSDK, follow these steps:
 
 1. Download the latest version of the NestorSDK package from the [Discord server](https://discord.gg/9Tq2BByDxw).
 2. Import the NestorSDK package into your project.
-    > [!WARNING]\
-    > The NestorSDK package is not compatible with the VRCSDK. Please ensure that you don't have a com.vrchat.base and com.vrchat.avatars package in your project.
 3. Enjoy the immersive experience you've been waiting for!
+
+> [!WARNING]\
+> The NestorSDK package is not compatible with the VRCSDK. Please ensure that you don't have a com.vrchat.base and com.vrchat.avatars package in your project.
 
 ## 🛠️ Key Features and Improvements
 
@@ -35,6 +36,9 @@ To get started with NestorSDK, follow these steps:
 - **Max Parameter Limit**: Increased max parameter limit up to 999.
 - **Unity Account Unban Utility**: A simple utility to unban your Unity account by deleting the DefaultCompany folder.
 - **Discord RPC Integration**: Seamless integration with Discord, complete with error handling for a smoother experience.
+
+> [!CAUTION]
+> Please note that the above features are modifications to VRChat's restrictions and may be banned. Use at your own risk.
 
 ## 📝 License
 
