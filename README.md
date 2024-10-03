@@ -1,3 +1,5 @@
+Update this README.md
+
 # NestorSDK
 
 Welcome to the **NestorSDK** repository! 🚀🌟 This SDK is crafted to empower developers with enhanced tools and functionalities for creating immersive experiences.
@@ -30,13 +32,11 @@ To get started with NestorSDK, follow these steps:
 
 ## 🛠️ Key Features and Improvements
 
-- **Avatar Upload Limits Bypass**: Bypass avatar upload limits and fallback logic.
-- **Asset Bundle Size Limit Bypass**: Bypass asset bundle size limit on all platforms.
-- **Android Shader Bypass**: Bypass shader whitelist checks on Android and increased constants for limits.
-- **Max Parameter Limit**: Increased max parameter limit up to 999.
-- **Unity Account Unban Utility**: A simple utility to unban your Unity account by deleting the DefaultCompany folder.
-- **Discord RPC Integration**: Seamless integration with Discord, complete with error handling for a smoother experience.
-
+- **Avatar Performance Flexibility**: Easily bypass performance and size validation checks for avatars on various platforms, including Quest.
+- **Fallback Logic for Avatar Uploads**: Unconditional avatar upload functionality with automatic fallback status.
+- **Enhanced Parameter Management**: Manage dynamic avatar parameters with increased limits, supporting more complex avatars.
+- **VRChat Avatar and Base Package Support**: Seamlessly integrate with VRChat using enhanced SDK features.
+- **Discord Rich Presence Integration**: Share your VR activity and status in real-time directly on Discord.
 > [!CAUTION]
 > Please note that the above features are modifications to VRChat's restrictions and may be banned. Use at your own risk.
 
