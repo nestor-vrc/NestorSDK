@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Fixed
 
 - **Thumbnail Keyword Conflict**: Escaped reserved keyword `value` in `ThumbnailFoldout.cs` to avoid shader property conflicts.
+- **Upload issue**: Fixed SceneManagement namespace error. Updated SceneSaver to include UnityEditor.SceneManagement conditionally with #if UNITY_EDITOR
 
 ---
 
